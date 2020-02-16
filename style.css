@@ -1,0 +1,77 @@
+
+
+
+/*couleur de la page*/
+
+
+body {
+	color: #413C69;
+	font-family: 'Lora', serif;
+	font-weight: lighter;
+	background-image: url(images/fond.jpg);
+	background-size: cover;
+
+}
+
+h1, h2 {
+	font-family: 'Roboto', sans-serif;
+	
+}
+
+h1 {
+	color: #413C69;
+	font-weight: 900;
+	list-style: none;
+	
+}
+
+h2 {
+	color: #617bE3;
+	font-weight: 300;
+	font-weight: lighter;
+
+}
+
+
+a{
+	text-decoration: none;
+	color: #617bE3;
+	font-weight: bold;
+	font-family: 'Roboto', sans-serif;
+}
+a:hover {
+	color: #1B2A49; 
+
+}
+
+
+.img-circle {
+	border-radius: 50%
+}
+
+.list-inline {
+	list-style: none;
+
+}
+
+.list-inline li {
+	display: inline;
+
+}
+
+.btn-blue {
+	background-color: #617bE3;
+	color: white;
+	padding: 15px 20px;
+	border-radius: 4px;
+}
+
+
+
+
+
+
+
+
+
+
